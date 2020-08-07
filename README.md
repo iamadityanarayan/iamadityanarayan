@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola, I'm Adityanarayan Tiwari! 👋
 
-<!--
-**iamadityanarayan/iamadityanarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Angular Project
+- 🌱 I’m currently learning Full Stack Development(Typescript and Angular)
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with 
+- 💬 Ask me about UI Development or any tech related stuff.
+<!---
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&amp;theme=dark&amp;hide_langs_below=1"/>
