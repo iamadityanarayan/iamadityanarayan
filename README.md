@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&amp;theme=dark&amp;hide_langs_below=1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadityanarayan&amp;theme=dark&amp;hide_langs_below=1"/>
